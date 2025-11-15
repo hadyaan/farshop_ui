@@ -1,6 +1,6 @@
 # Farshop – Flutter UI Showcase
 
-Farshop adalah tampilan aplikasi e-commerce sederhana yang dirancang untuk menampilkan kemampuan dalam membangun UI modern menggunakan Flutter.  
+Farshop adalah tampilan aplikasi e-commerce sederhana untuk menampilkan UI modern dan sederhana menggunakan Flutter.  
 Project ini berfokus pada clean-UI, responsif, dan pengalaman pengguna yang smooth dengan animasi dan state management GetX.
 
 ---
@@ -23,7 +23,7 @@ Project ini berfokus pada clean-UI, responsif, dan pengalaman pengguna yang smoo
 
 ## Cara Menjalankan Project
 
-Pastikan sudah menginstall Flutter di perangkatmu.
+Pastikan sudah menginstall Flutter terlebih dahulu.
 
 1. Clone repository
 ```bash
